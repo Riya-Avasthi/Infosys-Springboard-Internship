@@ -1,0 +1,25 @@
+# Core Dependencies
+pandas>=1.3.0
+scikit-learn>=1.0.0
+python-dotenv>=1.0.0
+
+# APIs and Integrations
+zapier>=0.0.2  # For Zapier integration
+google-api-python-client>=2.0.0  # For Google Spreadsheet API integration
+gemini-api>=0.3.0  # For Gemini API integration
+
+# Web Framework
+fastapi>=0.100.0  # For building the API
+
+# Data Validation and Serialization
+pydantic>=1.10.0
+
+# Development Tools
+uvicorn>=0.23.0  # For running the FastAPI app
+ipython>=8.0.0  # Interactive Python shell
+
+# Optional Dependencies
+tabulate>=0.8.9  # For formatting data as tables (if needed)
+python-multipart>=0.0.6  # For handling file uploads in FastAPI
+
+# Note: Ensure your system has Python 3.9+ installed for compatibility.
