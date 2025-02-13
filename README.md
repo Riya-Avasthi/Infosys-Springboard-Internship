@@ -125,13 +125,8 @@ pip install -r requirements.txt
    - Updates are sent to customers via Email or Slack.
 
 ## Project Dashboard - 
-        ![alt text](Project Output Images/image1.png)
-        ![alt text](Project Output Images/image2.png)
-        ![alt text](Project Output Images/image3.png)
-        ![alt text](Project Output Images/image4.png)
-        ![alt text](Project Output Images/image5.png)
-        ![alt text](Project Output Images/image6.png)
-        ![alt text](Project Output Images/image7.png)
+       ![image1](https://github.com/user-attachments/assets/63f2da5f-2e7b-4a7c-8cff-5ed39946fda4)
+
 ## ✨ Future Enhancements
 - Integration with more communication platforms (e.g., WhatsApp, Telegram).
 - Advanced analytics dashboards for real-time insights.
