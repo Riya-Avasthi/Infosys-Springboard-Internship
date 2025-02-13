@@ -124,9 +124,6 @@ pip install -r requirements.txt
    - Common issues are resolved automatically based on predefined rules.
    - Updates are sent to customers via Email or Slack.
 
-## Project Dashboard - 
-       ![image1](https://github.com/user-attachments/assets/63f2da5f-2e7b-4a7c-8cff-5ed39946fda4)
-
 ## ✨ Future Enhancements
 - Integration with more communication platforms (e.g., WhatsApp, Telegram).
 - Advanced analytics dashboards for real-time insights.
