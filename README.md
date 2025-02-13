@@ -124,6 +124,14 @@ pip install -r requirements.txt
    - Common issues are resolved automatically based on predefined rules.
    - Updates are sent to customers via Email or Slack.
 
+## Project Dashboard - 
+        ![alt text]([Project Output Images/image1.png](https://github.com/Riya-Avasthi/Infosys-Springboard-Internship/blob/main/Project%20Output%20Images/image1.png))
+        ![alt text]([Project Output Images/image1.png](https://github.com/Riya-Avasthi/Infosys-Springboard-Internship/blob/main/Project%20Output%20Images/image2.png))
+        ![alt text]([Project Output Images/image1.png](https://github.com/Riya-Avasthi/Infosys-Springboard-Internship/blob/main/Project%20Output%20Images/image3.png))
+        ![alt text]([Project Output Images/image1.png](https://github.com/Riya-Avasthi/Infosys-Springboard-Internship/blob/main/Project%20Output%20Images/image4.png))
+        ![alt text]([Project Output Images/image1.png](https://github.com/Riya-Avasthi/Infosys-Springboard-Internship/blob/main/Project%20Output%20Images/image5.png))
+        ![alt text]([Project Output Images/image1.png](https://github.com/Riya-Avasthi/Infosys-Springboard-Internship/blob/main/Project%20Output%20Images/image6.png))
+        ![alt text]([Project Output Images/image1.png](https://github.com/Riya-Avasthi/Infosys-Springboard-Internship/blob/main/Project%20Output%20Images/image7.png))
 ## ✨ Future Enhancements
 - Integration with more communication platforms (e.g., WhatsApp, Telegram).
 - Advanced analytics dashboards for real-time insights.
